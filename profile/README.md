@@ -1,6 +1,6 @@
 # Welcome to Height Labs
 
-At Height Labs, we specialize in developing innovative solutions that solve real world problems. Our focus is on creating tools that simplify and automate complex processes, enabling businesses to achieve their goals efficiently.
+At [Height Labs](https://heightlabs.com), we specialize in developing innovative solutions that solve real world problems. Our focus is on creating tools that simplify and automate complex processes, enabling businesses to achieve their goals efficiently.
 
 ## Introducing RankYak
 
